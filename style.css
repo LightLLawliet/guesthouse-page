@@ -566,7 +566,7 @@ body {
 /*intro styles start*/
 .intro {
     min-height: 100vh;
-    background: url(./pics/intro__pic.png) no-repeat center;
+    background: url(../pics/intro__pic.png) no-repeat center;
     background-size: cover;
 }
 
@@ -698,7 +698,7 @@ body {
 
 
 .slogan__back {
-    background: url(./pics/slogan.png) no-repeat center;
+    background: url(../pics/slogan.png) no-repeat center;
     min-height: 600px;
     background-size: cover;
 }
@@ -970,7 +970,7 @@ body {
 }
 
 .past__image {
-    background: url(./pics/past__clients.png) no-repeat center;
+    background: url(../pics/past__clients.png) no-repeat center;
     min-height: 600px;
     background-size: cover;
 }
